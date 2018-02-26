@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>main</key>
+	<dict>
+		<key>images</key>
+		<dict>
+			<key>themeImageView_image</key>
+			<string>night@2x</string>
+		</dict>
+		<key>colors</key>
+		<dict>
+			<key>themeButton_titleColor</key>
+			<string>DB7093</string>
+			<key>view_backgroundColor</key>
+			<string>696969</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
